@@ -1,0 +1,5 @@
+Darmawan,20,3.4
+DavidHardware,21,3.5
+WahyuMonitor,22,3.6
+MusaSpeaker,20,3.3
+AjiCPU,22,3.7
